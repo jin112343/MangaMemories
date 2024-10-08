@@ -16,3 +16,7 @@ GitHubを利用してコードを管理し、進捗状況を確認・共有で�
 - SwiftUIの基礎を学習
 - SwiftUIのレイアウトガイドを参考に、基本的なUIを試作  
 参考リンク: [SwiftUI View Layout](https://developer.apple.com/documentation/swiftui/view-layout)
+
+<img src="https://github.com/user-attachments/assets/d408b005-d318-4938-a0c1-e22efbe5f8b2" alt="スクリーンショット 2024-10-09 1 12 43" width="500"/>
+<img src="https://github.com/user-attachments/assets/dbb31c64-b742-49a3-883e-989da89dd49f" alt="スクリーンショット 2024-10-09 1 12 46" width="500"/>
+
